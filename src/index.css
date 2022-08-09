@@ -1,13 +1,11 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Mukta&family=Open+Sans:ital,wght@1,300&family=Outfit:wght@200&family=PT+Sans+Caption&family=Roboto:wght@300;400&family=Source+Serif+Pro&display=swap');
+body{
+  background: hsl(185, 41%, 84%);
+  font-family: 'DM Sans', sans-serif;
+  font-family: 'Mukta', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Outfit', sans-serif;
+  font-family: 'PT Sans Caption', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Source Serif Pro', serif;
 }
